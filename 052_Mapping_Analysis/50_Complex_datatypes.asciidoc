@@ -136,7 +136,7 @@ usefully, it converts our document into something like this:
 [source,js]
 --------------------------------------------------
 {
-    "tweet":            [elasticsearch, flexible, very],
+    "tweet":            [elasticsearch, flexible, is, very],
     "user.id":          [@johnsmith],
     "user.gender":      [male],
     "user.age":         [26],
